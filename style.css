@@ -56,7 +56,7 @@ main{
 }
 
 .new_task{
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .new_section{
@@ -72,6 +72,15 @@ main{
     margin-right: 3px;
 }
 
+.cross{
+    padding: 2px 5px;
+    border-radius: 50%;
+    border: 1px solid #ef908c;
+    color: #ef908c;
+    font-size: 10px;
+    margin-right: 3px;
+}
+
 .task_button{
     padding: 5px 10px;
     border-radius: 10px;
@@ -83,9 +92,17 @@ main{
     background-color: #44abea;
 }
 
+.q1_goals{
+    background-color: #9c72e4;
+}
+
+.recruiting{
+    background-color: #64c0a9;
+}
+
+.mobile{
+    background-color: #f29e33;
+}
 
 
 
-
-/* &check;
-&cross; */
