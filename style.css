@@ -20,8 +20,8 @@ h1{
 
 main{
     background-color: white;
-    height: 600px;
-    width: 60%;
+    height: 650px;
+    width: 70%;
     margin: auto;
     margin-top: 50px;
 }
@@ -30,7 +30,7 @@ main{
     height: 30px;
     font-family: 'Roboto', sans-serif;
     font-size: 10px; 
-    padding-left: 40px;
+    padding-left: 50px;
     padding-top: 20px;
     border-bottom: 2px solid #f6f8f9;
 }
@@ -49,18 +49,16 @@ main{
     color: #DCDCDC;
 }
 
-.sections{
-    padding-top: 25px;
+.new_section{
+    margin-top: 40px;
     margin-left: 50px;
     font-size: 20px;
+    color: #444851;
 }
 
 .new_task{
     margin-top: 20px;
-}
-
-.new_section{
-    margin-bottom: 30px;
+    font-size: 18px;
 }
 
 .check{
