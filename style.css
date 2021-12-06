@@ -10,8 +10,6 @@ body{
 header{
     background: url('img/Logo.png') no-repeat white;
     height: 50px;
-    width: 80%;
-    margin: auto;
     border: solid white 10px;
 }
 
@@ -22,8 +20,8 @@ h1{
 
 main{
     background-color: white;
-    width: 50%;
     height: 600px;
+    width: 60%;
     margin: auto;
     margin-top: 50px;
 }
@@ -32,22 +30,62 @@ main{
     height: 30px;
     font-family: 'Roboto', sans-serif;
     font-size: 10px; 
-    padding-left: 20px;
+    padding-left: 40px;
     padding-top: 20px;
     border-bottom: 2px solid #f6f8f9;
 }
 
 #add_task{
     background-color: #44abea;
-    padding: 5px 7px;
+    padding: 5px 10px;
     border-radius: 5px;
     color: white;
 }
 
 #add_section{
-    padding: 5px 7px;
+    padding: 5px 10px;
     border-radius: 5px;
     border: 1px solid #DCDCDC;
     color: #DCDCDC;
 }
 
+.sections{
+    padding-top: 25px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.new_task{
+    margin-top: 10px;
+}
+
+.new_section{
+    margin-bottom: 30px;
+}
+
+.check{
+    padding: 2px 4px;
+    border-radius: 50%;
+    border: 1px solid #64c0a9;
+    color: #64c0a9;
+    font-size: 10px;
+    margin-right: 3px;
+}
+
+.task_button{
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 10px; 
+}
+
+.editorial{
+    background-color: #44abea;
+}
+
+
+
+
+
+/* &check;
+&cross; */
