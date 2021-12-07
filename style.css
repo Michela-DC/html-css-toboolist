@@ -35,6 +35,8 @@ main{
     border-bottom: 2px solid #f6f8f9;
 }
 
+/*invece di mettere il padding ad add_task e add_section potevo mettere box sizing border-box ad add*/
+
 #add_task{
     background-color: #44abea;
     padding: 5px 10px;
